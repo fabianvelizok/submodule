@@ -1,0 +1,6 @@
+[submodule "nasa-fe"]
+	path = nasa-fe
+	url = git@github.com:fabianvelizok/nasa-fe.git
+[submodule "server"]
+	path = server
+	url = git@github.com:fabianvelizok/nasa-api.git
